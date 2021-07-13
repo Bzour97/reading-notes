@@ -8,9 +8,5 @@
 | GrowthMindset | [link to the page](GrowthMindset) |
 | Read1 | [link to the page](Read1) |
 | Read02 | [link to the page](Read02) |
-=======
-Page | Link
------------- | -------------
-GrowthMindset | [link to the page](GrowthMindset)
-Read1 | [link to the page](Read1)
+
 
