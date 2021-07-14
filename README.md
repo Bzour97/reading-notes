@@ -10,5 +10,3 @@
 | Read02 | [link to the page](Read02) |
 | Read03 | [link to the page](Read03) |
 | Read04 | [link to the page](Read04) |
-
-
