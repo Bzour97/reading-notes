@@ -11,5 +11,9 @@
 | Read03 | [link to the page](Read03) |
 | Read04 | [link to the page](Read04) |
 | Read05 | [link to the page](Read05) |
+<<<<<<< HEAD
 | Read06 | [link to the page](Read06) |
 | Read07 | [link to the page](Read07) |
+=======
+| Read06 | [link to the page](Read06) |
+>>>>>>> 1b02cfa458cc4ce0e2218c64f4e750f5bb3a61b1
