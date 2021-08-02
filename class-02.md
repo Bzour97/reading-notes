@@ -33,7 +33,7 @@
 Like we mentioned in html, what is Markup represent, like hypertext?
 The markings show the words and pictures of a web page to web browsers. An element is referred to as each unique code (Tags).
 
-Two distinct element kinds (tags) are present:
+### Two distinct element kinds (tags) are present:
 
 1. Semantic element
 
