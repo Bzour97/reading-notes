@@ -21,3 +21,4 @@
 | Page | Link |
 | ------------ | ------------- |
 | Class 01 | [link to the page](class-01) |
+| Class 02 | [link to the page](class-02) |
