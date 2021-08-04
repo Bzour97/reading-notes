@@ -23,3 +23,4 @@
 | Class 01 | [link to the page](class-01) |
 | Class 02 | [link to the page](class-02) |
 | Class 03 | [link to the page](class-03) |
+| Class 04 | [link to the page](class-04) |
