@@ -25,3 +25,6 @@
 | Class 03 | [link to the page](class-03) |
 | Class 04 | [link to the page](class-04) |
 | Class 05 | [link to the page](class-05) |
+| Class 06 | [link to the page](class-06) |
+| Class 07 | [link to the page](class-07) |
+| Class 08 | [link to the page](class-08) |
