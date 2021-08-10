@@ -28,3 +28,4 @@
 | Class 06 | [link to the page](class-06) |
 | Class 07 | [link to the page](class-07) |
 | Class 08 | [link to the page](class-08) |
+| Class 09 | [link to the page](class-09) |
