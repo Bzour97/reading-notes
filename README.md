@@ -15,7 +15,7 @@
 | Read07 | [link to the page](Read07) |
 
 
-# Code 201 Reading Notesl
+# Code 201 Reading Notes
 
 
 | Page | Link |
@@ -32,3 +32,4 @@
 | Class 10 | [link to the page](class-10) |
 | Class 11 | [link to the page](class-11) |
 | Class 12 | [link to the page](class-12) |
+| Class 13 | [link to the page](class-13) |
