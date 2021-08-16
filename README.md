@@ -31,3 +31,4 @@
 | Class 09 | [link to the page](class-09) |
 | Class 10 | [link to the page](class-10) |
 | Class 11 | [link to the page](class-11) |
+| Class 12 | [link to the page](class-12) |
