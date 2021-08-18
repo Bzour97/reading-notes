@@ -33,3 +33,5 @@
 | Class 11 | [link to the page](class-11) |
 | Class 12 | [link to the page](class-12) |
 | Class 13 | [link to the page](class-13) |
+| Class 14a | [link to the page](class-14a) |
+| Class 14b | [link to the page](class-14b) |
